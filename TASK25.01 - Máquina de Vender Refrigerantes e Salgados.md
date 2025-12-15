@@ -1,7 +1,7 @@
 ---
 title: Problema 25.01: A máquina de vender refrigerantes e salgados
 parent: Tarefas
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 

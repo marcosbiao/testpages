@@ -3,7 +3,7 @@ title: Início
 nav_order: 1
 ---
 
-#Repositorio de Atividades de LFA
+# Repositorio de Atividades de LFA
 
 Este repositório é concebido como um caderno de exercícios digital meticulosamente organizado para a disciplina de Linguagens Formais e Autômatos (LFA). Dada a natureza intrinsecamente teórica e, por vezes, abstrata do campo, a consolidação do conhecimento requer uma abordagem prática e sistemática. O foco primordial aqui é transpor a teoria do reconhecimento de linguagens — que abrange desde expressões regulares até a hierarquia de Chomsky — para a implementação e resolução de problemas concretos. A estrutura deste repository reflete uma progressão didática, iniciando com os modelos mais elementares, como Autômatos Finitos Determinísticos (AFD) e Não-Determinísticos (AFN), e avançando em direção à complexidade dos Autômatos de Pilha (AP) e, subsequentemente, às noções fundacionais da Máquina de Turing, . Este acervo visa não apenas validar as soluções encontradas para cada tarefa, mas também servir como um recurso de referência para revisitar conceitos-chave e estratégias de modelagem de sistemas computacionais.
 

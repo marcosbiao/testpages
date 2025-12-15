@@ -1,7 +1,7 @@
 ---
 title: Problema 25.02 : Labirinto do Minotauro
 parent: Tarefas
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
 
