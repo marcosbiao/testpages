@@ -1,0 +1,17 @@
+title: TASK25
+description: Coleção de tarefas em Markdown (GitHub Pages)
+
+# Para GitHub Pages em repositório de projeto:
+url: "https://marcosbiao.github.io"
+baseurl: "/testpages"
+
+# Tema de documentação (sidebar + busca)
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+
+aux_links:
+  "Repositório no GitHub":
+    - "https://github.com/marcosbiao/testpages"
