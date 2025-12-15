@@ -1,5 +1,3 @@
----
-
 # Problema 25.01: A máquina de vender refrigerantes e salgados
 
 **Autores:** Luiz Gavaza, Lais Salvador, David Moises e Roberta Oliveira  
@@ -88,4 +86,4 @@ MENEZES, Paulo Blauth.
 [^1]: https://www.jflap.org/  
 [^2]: https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip
 
----
+

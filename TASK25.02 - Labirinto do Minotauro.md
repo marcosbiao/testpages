@@ -1,4 +1,3 @@
----
 # Problema 25.02 : Labirinto do Minotauro
 
 **Autores:** Laís Salvador  
@@ -88,6 +87,6 @@ Desenvolver um **módulo de navegação formal** para o personagem Teseu, capaz 
 
 RAMOS, M. V. M.; JOSE NETO, J.; VEGA, I. S.  
 *Linguagens Formais: Teoria, Modelagem e Implementação.* Editora Bookman, 2009.
----
+
 MENEZES, Paulo Blauth.  
 *Linguagens formais e autômatos.* 6. ed. Bookman, 2011.

@@ -1,5 +1,5 @@
-title: TASK25
-description: Coleção de tarefas em Markdown (GitHub Pages)
+title: Tarefas Linguagens Formais e Automatos
+description: Coleção de tarefas de LFA
 
 # Para GitHub Pages em repositório de projeto:
 url: "https://marcosbiao.github.io"
@@ -9,6 +9,9 @@ baseurl: "/testpages"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+# opcional: ordenação mais previsível quando você não usa nav_order
+nav_sort: case_insensitive
 
 search_enabled: true
 
