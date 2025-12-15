@@ -1,3 +1,10 @@
+---
+title: Problema 25.02 : Labirinto do Minotauro
+parent: Tarefas
+nav_order: 1
+has_children: true
+---
+
 # Problema 25.02 : Labirinto do Minotauro
 
 **Autores:** Laís Salvador  

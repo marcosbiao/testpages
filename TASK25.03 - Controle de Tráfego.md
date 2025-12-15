@@ -1,4 +1,11 @@
-# Problema 3: Controle de Tráfego
+---
+title: Problema 25.03 : Controle de Tráfego
+parent: Tarefas
+nav_order: 1
+has_children: true
+---
+
+# Problema 25.03 : Controle de Tráfego
 
 **Autores:** Luiz Gavaza, Laís Salvador, David Moisés  
 **Colaboradores:** Edeyson Gomes, Jéssica Santana  

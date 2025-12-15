@@ -1,4 +1,11 @@
-# MATC94 – Introdução às Linguagens Formais e Teoria da Computação
+---
+title: Problema 25.00 : Coleção de música
+parent: Tarefas
+nav_order: 1
+has_children: true
+---
+
+# Problema 25.00 : Coleção de música
 
 **Profa.** Laís Salvador
 

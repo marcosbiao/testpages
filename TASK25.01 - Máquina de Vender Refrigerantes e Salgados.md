@@ -1,3 +1,10 @@
+---
+title: Problema 25.01: A máquina de vender refrigerantes e salgados
+parent: Tarefas
+nav_order: 1
+has_children: true
+---
+
 # Problema 25.01: A máquina de vender refrigerantes e salgados
 
 **Autores:** Luiz Gavaza, Lais Salvador, David Moises e Roberta Oliveira  
