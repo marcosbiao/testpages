@@ -1,3 +1,5 @@
+---
+
 # Problema 25.01: A máquina de vender refrigerantes e salgados
 
 **Autores:** Luiz Gavaza, Lais Salvador, David Moises e Roberta Oliveira  
@@ -72,7 +74,7 @@ V. Especificar **relatórios de cunho técnico**.
 VI. Usar **ferramentas de simulação** para autômatos finitos.
 
 
-
+---
 ## Referências
 
 RAMOS, M. V. M.; JOSE NETO, J.; VEGA, I. S.  
@@ -85,3 +87,5 @@ MENEZES, Paulo Blauth.
 
 [^1]: https://www.jflap.org/  
 [^2]: https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip
+
+---
